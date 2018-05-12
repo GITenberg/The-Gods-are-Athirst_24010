@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/755
     wikipedia: http://en.wikipedia.org/wiki/Anatole_France
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24010#The-Gods-are-Athirst
 gutenberg_issued: '2007-12-24'
 gutenberg_type: Text
 identifiers:
